@@ -1,0 +1,28 @@
+﻿  Lab4.cpp
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(36,3): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(36,3): error C2065: nop: необъявленный идентификатор
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(69,3): error C2059: синтаксическая ошибка: const
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(84,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(104,3): error C2144: синтаксическая ошибка: перед "unsigned int" требуется ";"
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(104,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(114,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(114,2): error C2040: pucObject5: "int" отличается по уровням косвенного обращения от "unsigned char *"
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(123,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(123,2): error C2371: cc: переопределение; различные базовые типы
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(122,7): message : см. объявление "cc"
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(125,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(125,2): error C2371: cc: переопределение; различные базовые типы
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(122,7): message : см. объявление "cc"
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(126,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(126,2): error C2371: cc: переопределение; различные базовые типы
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(122,7): message : см. объявление "cc"
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(127,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(128,3): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(128,3): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(127,2): error C2086: int nop: переопределение
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(84,2): message : см. объявление "nop"
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(128,5): error C2059: синтаксическая ошибка: /
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(139,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(139,2): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(270,1): error C2059: синтаксическая ошибка: }
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(270,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"

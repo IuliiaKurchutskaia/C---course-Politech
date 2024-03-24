@@ -1,0 +1,4 @@
+﻿  Snake.cpp
+C:\Users\звездочка\Documents\labs\Snake\Snake\Snake.cpp(14,10): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\звездочка\Documents\labs\Snake\Snake\Snake.cpp(14,12): warning C4309: инициализация: усечение константного значения
+C:\Users\звездочка\Documents\labs\Snake\Snake\Snake.cpp(7,1): fatal  error C1075: "{": не найдена несоответствующая лексема

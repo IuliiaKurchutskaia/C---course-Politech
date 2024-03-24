@@ -1,0 +1,5 @@
+﻿  Lab6.cpp
+C:\Users\звездочка\Documents\labs\Lab6\Lab6\Lab6.cpp(373,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\звездочка\Documents\labs\Lab6\Lab6\Lab6.cpp(540,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\звездочка\Documents\labs\Lab6\Lab6\Lab6.cpp(708,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Lab6.vcxproj -> C:\Users\звездочка\Documents\labs\Lab6\Lab6\Debug\Lab6.exe

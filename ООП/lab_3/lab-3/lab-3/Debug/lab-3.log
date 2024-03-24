@@ -1,0 +1,8 @@
+﻿  lab-3.cpp
+D:\с++\labs\labs\ООП\lab_3\lab-3\array.h(65,19): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "lab-3.cpp")
+  
+D:\с++\labs\labs\ООП\lab_3\lab-3\array.h(87,34): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "lab-3.cpp")
+  
+  lab-3.vcxproj -> D:\с++\labs\labs\ООП\lab_3\lab-3\Debug\lab-3.exe

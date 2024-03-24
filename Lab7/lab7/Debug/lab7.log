@@ -1,0 +1,12 @@
+﻿  lab7.cpp
+C:\Users\звездочка\Documents\labs\Lab7\lab7\lab7.cpp(48,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\звездочка\Documents\labs\Lab7\lab7\lab7.cpp(371,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\звездочка\Documents\labs\Lab7\lab7\lab7.cpp(148,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\звездочка\Documents\labs\Lab7\lab7\lab7.cpp(343,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  other.cpp
+C:\Users\звездочка\Documents\labs\Lab7\lab7\other.cpp(88,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\звездочка\Documents\labs\Lab7\lab7\other.cpp(98,24): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\звездочка\Documents\labs\Lab7\lab7\other.cpp(81): warning C4715: DayOfYear: значение возвращается не при всех путях выполнения
+C:\Users\звездочка\Documents\labs\Lab7\lab7\other.cpp(397): warning C4715: insert: значение возвращается не при всех путях выполнения
+  lab7.vcxproj -> C:\Users\звездочка\Documents\labs\Lab7\lab7\Debug\lab7.exe

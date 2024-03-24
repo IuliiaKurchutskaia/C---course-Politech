@@ -1,0 +1,10 @@
+﻿  lab1_2023.cpp
+C:\Users\звездочка\Documents\labs\Lab1\lab1_2023.cpp(102,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\звездочка\Documents\labs\Lab1\lab1_2023.cpp(140,42): warning C4244: =: преобразование "double" в "char", возможна потеря данных
+C:\Users\звездочка\Documents\labs\Lab1\lab1_2023.cpp(140,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\звездочка\Documents\labs\Lab1\lab1_2023.cpp(142,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\звездочка\Documents\labs\Lab1\lab1_2023.cpp(142,26): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\звездочка\Documents\labs\Lab1\lab1_2023.cpp(142,14): warning C4244: =: преобразование "short" в "char", возможна потеря данных
+C:\Users\звездочка\Documents\labs\Lab1\lab1_2023.cpp(166,10): warning C4309: инициализация: усечение константного значения
+C:\Users\звездочка\Documents\labs\Lab1\lab1_2023.cpp(344,6): warning C4305: =: усечение из "int" в "bool"
+  Project1.vcxproj -> C:\Users\звездочка\Documents\labs\Lab1\Project1\Debug\Project1.exe

@@ -1,0 +1,6 @@
+﻿  card_index.cpp
+C:\Users\звездочка\Documents\labs\Lab8\lab8\card_index.cpp(16,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\звездочка\Documents\labs\Lab8\lab8\card_index.cpp(79,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\звездочка\Documents\labs\Lab8\lab8\card_index.cpp(111,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\звездочка\Documents\labs\Lab8\lab8\card_index.cpp(120,23): warning C4018: <: несоответствие типов со знаком и без знака
+  lab8.vcxproj -> C:\Users\звездочка\Documents\labs\Lab8\lab8\Debug\lab8.exe

@@ -1,0 +1,15 @@
+﻿  Lab1.cpp
+C:\Users\звездочка\Documents\labs\ООП\Lab1\Lab1\Lab1.cpp(21,4): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\звездочка\Documents\labs\ООП\Lab1\Lab1\Lab1.cpp(21,4): error C2065: nop: необъявленный идентификатор
+C:\Users\звездочка\Documents\labs\ООП\Lab1\Lab1\Lab1.cpp(22,3): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\звездочка\Documents\labs\ООП\Lab1\Lab1\Lab1.cpp(41,3): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\звездочка\Documents\labs\ООП\Lab1\Lab1\Lab1.cpp(47,3): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\звездочка\Documents\labs\ООП\Lab1\Lab1\Lab1.cpp(61,3): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\звездочка\Documents\labs\ООП\Lab1\Lab1\Lab1.cpp(41,3): error C2065: nop: необъявленный идентификатор
+C:\Users\звездочка\Documents\labs\ООП\Lab1\Lab1\Lab1.cpp(47,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "nop"
+C:\Users\звездочка\Documents\labs\ООП\Lab1\Lab1\Lab1.cpp(47,3): error C2065: nop: необъявленный идентификатор
+C:\Users\звездочка\Documents\labs\ООП\Lab1\Lab1\Lab1.cpp(61,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "nop"
+C:\Users\звездочка\Documents\labs\ООП\Lab1\Lab1\Lab1.cpp(61,3): error C2065: nop: необъявленный идентификатор
+C:\Users\звездочка\Documents\labs\ООП\Lab1\Lab1\Lab1.cpp(240,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "return"
+  myString.cpp
+  Создание кода...

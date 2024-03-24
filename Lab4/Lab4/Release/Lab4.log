@@ -1,0 +1,6 @@
+﻿  Lab4.cpp
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(238,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(266,9): error C2086: int arr[10]: переопределение
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(239,9): message : см. объявление "arr"
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(268,9): error C2086: int n: переопределение
+C:\Users\звездочка\Documents\labs\Lab4\Lab4\Lab4.cpp(267,9): message : см. объявление "n"

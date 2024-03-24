@@ -1,0 +1,2 @@
+﻿  stdafx.cpp
+C:\Users\звездочка\Documents\labs\Lab3\lab3\stdafx.cpp(3,1): error C2857: оператор "#include", указанный с параметром командной строки /Ycstdafx.cpp, не найден в исходном файле
